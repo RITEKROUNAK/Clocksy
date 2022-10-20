@@ -65,7 +65,7 @@ medusa develop
 5. Admin
     1. Clone the repository:
        ```bash
-       git clone https://github.com/RITEKROUNAK/clocksy-admin.git
+       git clone https://github.com/medusajs/admin
        ```
     1. Go to the admin dir
        ```bash
@@ -90,6 +90,11 @@ medusa develop
        ```bash
        yarn start
        ```
+       
+    1. Use the following credentials:
+
+      - email `admin@medusa-test.com`
+      - password `supersecret`
 
 6. Change directory , install dependencies and start the store-front
 
