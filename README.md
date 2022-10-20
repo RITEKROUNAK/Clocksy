@@ -52,34 +52,53 @@ cd Clocksy
 ```bash
 cd my-medusa-store
 npm install
-```
-or
-
-```bash
-cd my-medusa-store
+  or
 yarn install
 ```
 
 4. Start the server
 
 ```bash
+cd server
 medusa develop
 ```
+5. Admin
+    1. Clone the repository:
+       ```bash
+       git clone https://github.com/RITEKROUNAK/clocksy-admin.git
+       ```
+    1. Go to the admin dir
+       ```bash
+       cd ../admin
+       ```
+    1. Install dependencies
+       ```bash
+       npm install
+       ```
+       or
+       ```bash
+       yarn
+       ```
+    1. Start the admin
 
-5. Change directory , install dependencies and start the store-front
+       ```bash
+       npm run start
+       ```
+
+       or
+
+       ```bash
+       yarn start
+       ```
+
+6. Change directory , install dependencies and start the store-front
 
 ```bash
 cd ..
 cd my-store-front
 npm install
 npm run dev
-```
-
-or
-
-```bash
-cd ..
-cd my-store-front
+  or
 yarn install
 yarn dev
 ```
