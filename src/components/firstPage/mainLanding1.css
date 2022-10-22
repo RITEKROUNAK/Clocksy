@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap'); */
+.main-page{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-left:40px;
+}
+.fancy-txt{
+  font-family: 'Poppins', sans-serif; 
+}
+.main-heading p  {
+font-weight: 900; 
+font-size: 27px;
+line-height: 100%;
+font-family: 'Poppins', sans-serif;
+text-transform: capitalize;
+color: #171616;
+}
+.main-heading p h2{
+  margin: 1rem 0;
+}
+#focus-txt{
+  color:#9B773C;
+}
+.buy-token{
+  margin: 1rem .1rem;
+  padding: 1rem 4rem;
+  background: #9B773C;
+  border-radius: 25px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  border: none;
+  cursor: pointer;
+}
