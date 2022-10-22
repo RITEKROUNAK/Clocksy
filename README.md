@@ -17,6 +17,9 @@ This is a Watch Shop storefront powered by using ReactJs paired up with MedusaJs
 
 ### Preview
 
+![1](https://user-images.githubusercontent.com/64047505/197354357-43e82d0f-16ec-4d2e-a30b-450250f81296.jpg)
+
+
 ## Set up Project
 Here's how to setup and run the project locally :
 
